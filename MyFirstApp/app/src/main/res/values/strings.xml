@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="next_button">Siguiente</string>
+    <string name="previous_button">Regresar</string>
+    <string name="tv1">Main Activity</string>
+    <string name="tv2">Second Activity</string>
+    <string name="text_field1">Ingresa tu nombre</string>
+    <string name="my_name">Nombre</string>
+</resources>
